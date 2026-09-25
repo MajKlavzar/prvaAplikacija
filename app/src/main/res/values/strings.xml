@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">prvaAplikacija</string>
+    <string name="title">Mobile application!</string>
+    <string name="subtitle">Test Test Test</string>
+    <string name="button">Press Here!</string>
+    <string name="checkBox">I agree with the terms and conditions</string>
+    <string name="fab">Halo</string>
+</resources>
