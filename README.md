@@ -1,6 +1,6 @@
-# PrvaAplikacija
+# FirstApplication
 
-**PrvaAplikacija** is an Android application developed in Java as an introductory project showcasing modern Android development practices, Material Design components, and interactive UI elements.
+**FirstApplication** is an Android application developed in Java as an introductory project showcasing modern Android development practices, Material Design components, and interactive UI elements.
 
 ---
 
